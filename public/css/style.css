@@ -88,9 +88,8 @@ display: block;
 }
 
 .form{
-	float: left;
-	width: 478px;
-	margin-top: 20px;
+	width: 70%px;
+	margin:0 15%;
 }
 
 .field{
@@ -113,7 +112,7 @@ margin-bottom: 15px;
 	}
 	.form{
 		width: 100%;
-	}
+	} 
 
 	.field {
 		width: 80%;
